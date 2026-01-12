@@ -1,0 +1,13 @@
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.deps.json
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.dll
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.pdb
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.csproj.AssemblyReference.cache
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.AssemblyInfoInputs.cache
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.AssemblyInfo.cs
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.csproj.CoreCompileInputs.cache
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.sourcelink.json
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.dll
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\refint\BuildingBlocks.Messaging.dll
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\BuildingBlocks.Messaging.pdb
+D:\My_RND_Project\run-aspnetcore-microservices\src\BuildingBlocks\BuildingBlocks.Messaging\obj\Debug\net8.0\ref\BuildingBlocks.Messaging.dll
